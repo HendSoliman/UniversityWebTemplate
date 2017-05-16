@@ -1,0 +1,15 @@
+1em === 16px
+Do not Specify hight of div 
+
+@media Screen 
+
+#mobile  max-width  : 767 
+
+#Tablet  max-width  : 991
+
+#Desktop min-width  : 992
+
+
+
+
+#Lg      min-width  : 1280
